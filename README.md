@@ -8,12 +8,12 @@
    - _Power BI Data Modeling (Advanced) [Dataset](https://www.kaggle.com/datasets/bhanuthakurr/cleaned-contoso-dataset/data) , [LinkedIn Post](https://www.linkedin.com/posts/jayarama_lumel-powerbi-datageeks-activity-7221724598474563584-YEXs?utm_source=share&utm_medium=member_desktop)_
 3. Probo: _2Qs_
    - _MySQL (Advanced)_
-4. Google Data Analyst: _14Qs in 30mins_
-   - _Logical reasoning & problem solving_ 
+4. Google Data Analyst: _14Qs \ 30mins_
+   - _Logical Reasoning + Problem Solving_ 
 5. Valvoline Global Operations: _30mins_
    - _Interview Questions -> HR + Tech_
-6. Occams Advisory: _5Qs in 40mins_
+6. Occams Advisory: _5Qs \ 40mins_
    - _Written Ability Test_
-7. Travclan: _37Qs in 50mins_
+7. Travclan: _37Qs \ 50mins_
    - _Profile-related questions (2Qs) + Aptitude questions (11Qs)_
    - _VARC (16Qs) + Behavioural questions (8Qs)_
