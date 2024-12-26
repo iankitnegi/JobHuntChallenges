@@ -15,5 +15,5 @@
 6. Occams Advisory: _5Qs in 40mins_
    - _Written Ability Test_
 7. Travclan: _37Qs in 50mins_
-   - _Profile-related questions (2Qs) + Aptitude questions (10Qs)_
-   - _VARC (17Qs) + Behavioural questions (8Qs)_
+   - _Profile-related questions (2Qs) + Aptitude questions (11Qs)_
+   - _VARC (16Qs) + Behavioural questions (8Qs)_
