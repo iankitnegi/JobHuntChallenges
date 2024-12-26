@@ -3,20 +3,17 @@
 **Collection of coding challenges and solutions encountered during job hunting. Organized by company, role, and tech stack. Useful for interview preparation and skill enhancement.** 
 
 1. B3Intelligence: _20Qs_
-   - _Quantitative Aptitude_
-   - _Data Interpretation_ 
-3. Lumel:
+   - _Quantitative Aptitude + Data Interpretation_ 
+2. Lumel:
    - _Power BI Data Modeling (Advanced) [Dataset](https://www.kaggle.com/datasets/bhanuthakurr/cleaned-contoso-dataset/data) , [LinkedIn Post](https://www.linkedin.com/posts/jayarama_lumel-powerbi-datageeks-activity-7221724598474563584-YEXs?utm_source=share&utm_medium=member_desktop)_
-4. Probo: _2Qs_
+3. Probo: _2Qs_
    - _MySQL (Advanced)_
-5. Google Data Analyst: _14Qs / 30mins_
-   - g
-7. Valvoline Global Operations:
+4. Google Data Analyst: _14Qs in 30mins_
+   - _Logical reasoning & problem solving_ 
+5. Valvoline Global Operations: _30mins_
    - _Interview Questions -> HR + Tech_
-9. Occams Advisory: _5Qs / 40mins_
+6. Occams Advisory: _5Qs in 40mins_
    - _Written Ability Test_
-11. Travclan: _37Qs / 50mins_
-   - Profile-related questions
-   - Aptitude questions
-   - Comprehension questions
-   - Behavioural questions
+7. Travclan: _37Qs in 50mins_
+   - _Profile-related questions (2Qs) + Aptitude questions (10Qs)_
+   - _VARC (17Qs) + Behavioural questions (8Qs)_
