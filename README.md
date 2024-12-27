@@ -9,7 +9,7 @@
 3. Probo: _2Qs_
    - _MySQL (Advanced)_
 4. Google Data Analyst: _14Qs \ 30mins_
-   - _Logical Reasoning + Problem Solving_ 
+   - _Logical Reasoning + Problem Solving [YT Link](https://youtu.be/bq_jcz-I_oc?si=CdDPOFVX-rqNhK7Z)_ 
 5. Valvoline Global Operations: _30mins_
    - _Interview Questions -> HR + Tech_
 6. Occams Advisory: _5Qs \ 40mins_
