@@ -16,3 +16,4 @@
    - _Written Ability Test_
 7. Travclan: _37Qs \ 50mins_
    - _Profile-related questions (2Qs) + Aptitude (11Qs) + VARC (16Qs) + Behavioural questions (8Qs)_
+   - _Group Discussion: Intro -> Name, Location, Fact-Location & About yourself, Role which you applied for | Topic -> "Settling India Vs Abroad"_
