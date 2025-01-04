@@ -17,4 +17,5 @@
 7. Travclan: _37Qs \ 50mins_
    - _Profile-related questions (2Qs) + Aptitude (11Qs) + VARC (16Qs) + Behavioural questions (8Qs)_
    - _Group Discussion_
+   - _Aptitude(5) + Excel(6) + Case Studies (6)_
 8. Goverment of India (MeitY) - Data Analyst @ India AI: _90Qs \ 120mins_
