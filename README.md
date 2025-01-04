@@ -15,7 +15,7 @@
 6. Occams Advisory: _5Qs \ 40mins_
    - _Written Ability Test_
 7. Travclan: _37Qs \ 50mins_
-   - _Profile-related questions (2Qs) + Aptitude (11Qs) + VARC (16Qs) + Behavioural questions (8Qs)_
-   - _Group Discussion_
-   - _Aptitude(5) + Excel(6) + Case Studies (6)_
+   - _R1: Profile-related questions (2Qs) + Aptitude (11Qs) + VARC (16Qs) + Behavioural questions (8Qs)_
+   - _R2: Group Discussion_
+   - _R3: Aptitude(5Qs) + Excel(6Qs) + Case Studies (6Qs)_
 8. Goverment of India (MeitY) - Data Analyst @ India AI: _90Qs \ 120mins_
