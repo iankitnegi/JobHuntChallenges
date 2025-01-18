@@ -2,7 +2,7 @@
 
 **Collection of coding challenges and solutions encountered during job hunting. Organized by company, role, and tech stack. Useful for interview preparation and skill enhancement.** 
 
-1. B3Intelligence: _20Qs_
+1. B3Intelligence: _20Qs \ 60mins_
    - _Quantitative Aptitude + Data Interpretation_ 
 2. Lumel:
    - _Power BI Data Modeling (Advanced) [Dataset](https://www.kaggle.com/datasets/bhanuthakurr/cleaned-contoso-dataset/data) , [LinkedIn Post](https://www.linkedin.com/posts/jayarama_lumel-powerbi-datageeks-activity-7221724598474563584-YEXs?utm_source=share&utm_medium=member_desktop)_
@@ -20,5 +20,5 @@
    - _R3: Aptitude(5Qs) + Excel(6Qs) + Case Studies (6Qs)_
 8. Goverment of India (MeitY) - Data Analyst @ India AI: _90Qs \ 120mins_
    - _Statistics + DI + Technical + Coding_
-9. Digiaccel: _20Qs_
+9. Digiaccel: _20Qs \ 65mins_
    - _Logical & Quantitative Reasoning + Excel Skills + Video Assessment_ 
