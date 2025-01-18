@@ -19,3 +19,5 @@
    - _R2: Group Discussion_
    - _R3: Aptitude(5Qs) + Excel(6Qs) + Case Studies (6Qs)_
 8. Goverment of India (MeitY) - Data Analyst @ India AI: _90Qs \ 120mins_
+9. Digiaccel: _20Qs_
+   - _Logical & Quantitative Reasoning + Excel Skills + Video Assessment_ 
