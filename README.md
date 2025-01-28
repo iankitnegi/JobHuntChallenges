@@ -21,4 +21,5 @@
 8. Goverment of India (MeitY) - Data Analyst @ India AI: _90Qs \ 120mins_
    - _Statistics + DI + Technical + Coding_
 9. Digiaccel: _20Qs \ 65mins_
-   - _Logical & Quantitative Reasoning + Excel Skills + Video Assessment_ 
+   - _Logical & Quantitative Reasoning + Excel Skills + Video Assessment_
+10. LocationHQ:
