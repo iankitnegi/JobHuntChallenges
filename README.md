@@ -22,4 +22,4 @@
    - _Statistics + DI + Technical + Coding_
 9. Digiaccel: _20Qs \ 65mins_
    - _Logical & Quantitative Reasoning + Excel Skills + Video Assessment_
-10. LocationHQ:
+10. LocationHQ
