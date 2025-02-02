@@ -22,5 +22,7 @@
    - _Statistics + DI + Technical + Coding_
 9. Digiaccel: _20Qs \ 65mins_
    - _Logical & Quantitative Reasoning + Excel Skills + Video Assessment_
-10. LocationHQ
-11. Just Appraised
+10. LocationHQ:
+    - _History Form_
+12. Just Appraised: _4Qs \ 90mins_
+    - _2 SQL + 2 Python_
